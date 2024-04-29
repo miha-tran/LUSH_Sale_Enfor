@@ -10,7 +10,7 @@
 
 ## 📌 Introduction
 
-Welcome to our team's showcase for the 24-hour Hackathon, a collaborative venture between BrainStation and Google. I'm thrilled to introduce our dynamic team, a mix of data scientists, UI/UX designers, software engineers, and a fantastic TA Project Manager:
+Welcome to our team's showcase for the 24-hour Hackathon, a collaborative venture between BrainStation and Google. I'm thrilled to introduce our dynamic team, a mix of data scientists and web developer in a project collaborating with LUSH sale managers:
 
 ### 🤩 Our Team
 
@@ -28,7 +28,7 @@ Welcome to our team's showcase for the 24-hour Hackathon, a collaborative ventur
 
 Our task was to address the following pivotal question:
 
-> "How can we create innovative solutions to educate users about new AI-related product features, while maintaining user trust and avoiding misunderstandings about AI?"
+> "How to improve the sale force for LUSH ?"
 
 ---
 
@@ -36,27 +36,50 @@ Our task was to address the following pivotal question:
 
 <div align="center">
 
-<h2><strong>User-Centric AI Education: Google A.I.</strong></h2>
+<h2><strong>Trend in Recycling and Packaging Garbage overtime: Sustainability trend monitoring </strong></h2>
 
-<h3>Our approach is centered on the user, aiming to enhance user control as a part of the educational process. By doing so, we aim to demystify AI for users, enabling them to make informed decisions about AI-related features and ensuring their trust is preserved.</h3>
+<h3>As sustainability becomes more important to governments and societies, stakeholders are recognizing that companies embracing sustainable practices hold greater future value. Consumers are becoming increasingly conscious of their impact on the environment and are demanding more sustainable products and services. Moving forward, both inside and outside stakeholders will have a big say in ensuring companies stick to their sustainability goals and follow through with actions. So we suggest that sustainability continues to be a key feature defining Lush.</h3>
 
-![Image1](https://static.wixstatic.com/media/6d6e15_68e13f1991e54ae4aaf31f15d64bfbcc~mv2.png/v1/fill/w_648,h_866,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/hackathon%20mock%20up.png)
+<img width="215" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/9d95e555-7c86-4f43-8c11-48e65a33e18a">
+
+<img width="293" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/32f88823-79d5-4abb-b9e7-eed38a3d6429">
+
+<img width="309" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/2a1d4553-abec-481c-b240-5a13c8f07404">
+
 
 </div>
 
----
-
-### 🎬 Demonstrations
-
-#### Presentation Slides
-Discover more about our journey, brainstorming process, and solution by viewing our [Presentation Slides](https://www.canva.com/design/DAFpNSB49-8/f7ymEyPAZB0P1Mfao3O65w/view?utm_content=DAFpNSB49-8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
-
-#### Solution Demo
-Experience our solution firsthand by checking out the [Solution Demo](https://www.figma.com/proto/1yTRZaldpvvmrTQ7xTTUDv/Google-BARD?page-id=0%3A1&type=design&node-id=2-2&viewport=230%2C471%2C0.18&t=E3J0KFZOfG0QnOZN-1&scaling=scale-down&starting-point-node-id=2%3A2).
-
 <div align="center">
 
-![Image2](https://static.wixstatic.com/media/6d6e15_95fe565d22be477b93d68f317b4574ae~mv2.png/v1/fill/w_193,h_391,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6d6e15_95fe565d22be477b93d68f317b4574ae~mv2.png)
+<h2><strong>AI-based model : Prediction of the sustainability trend </strong></h2>
+
+<h3>Based on current dataset, develop a model to predict the future trend for the sustainable packages over years.</h3>
+
+<img width="329" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/bb4cc388-2321-4547-a2a5-987c852daa4d">
+
+<img width="329" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/35654b70-05fa-429f-9681-263809002159">
+
+<img width="328" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/419bff66-388d-4fb4-9006-6b38223eaa8d">
+
+<img width="308" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/ecd9b044-7962-4320-afc1-42652619afff">
+---
+
+### 🎬 Outcomes
+
+#### Correlation between Customer loyalty and corporate social resonsibility action (CSRA)
+<img width="250" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/5283d832-c110-4be9-8588-c8f53279a935">
+
+#### Recommendation for a Halal Cosmetics market
+<img width="284" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/0e62e9b0-1cd1-4439-ac36-23f19bd2a537">
+
+### Recommendation for a "plastic-free" package influences from customer surveys
+<img width="275" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/d3e641ec-f7fc-423d-a39a-ca6fab438f94">
+
+### Recommendation for a green ingredients
+<img width="331" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/f23b8441-fccd-451b-80e3-05a806e329e8">
+
+### Insight from customer review
+<img width="145" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/b7139291-71bf-40f5-b971-efb64c10e5a1">
 
 </div>
 
