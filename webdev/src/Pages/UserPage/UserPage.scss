@@ -1,0 +1,214 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url("../../assets/Lush.avif");
+  background-repeat: no-repeat;
+  max-inline-size: 100%;
+  background-size: cover;
+  color: black;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  &__logo {
+    
+    align-items: center;
+    color: goldenrod;
+    font-weight: 800;
+    font-size: 2.3rem;
+    padding-left: 2rem;
+    font-family: "Playfair Display";
+    text-shadow: 2px 2px white;
+  }
+
+  &__link {
+    text-decoration: none;
+  }
+
+  &__visualpageLink {
+    list-style: none;
+    margin-right: 2rem;
+    color: goldenrod;
+    font-weight: 800;
+    font-size: 1.7rem;
+    text-shadow: 1px 1px white;
+    
+  }
+}
+
+.branch-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  &__Text{
+    color: goldenrod;
+    text-align: center;
+    text-shadow: 1px 1px white;
+    font-weight: 700;
+     
+  }
+}
+.user-info {
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f4f5;
+  padding: 1rem;
+  margin-top: 2rem;
+  width: 50vw;
+ 
+  &__header {
+    color: goldenrod;
+    text-align: center;
+    text-shadow: 1px 1px white;
+    font-weight: 700;
+  }
+  &__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+    
+  }
+  &__Label{
+     font-weight: 700;
+  }
+
+  &__input {
+    width: 70%;
+    border-radius: 1.25rem;
+    border: 1px solid grey;
+    margin: 1rem;
+    padding-left: 2rem;
+    line-height: 2.25rem;
+  }
+  
+  &__button {
+    width: 100%;
+    border-radius: 1.25rem;
+    color: white;
+    background-color: black;
+    border: 1px solid grey;
+    justify-content: center;
+    margin: 0, 1rem;
+    line-height: 2.25rem;
+    
+  }
+}
+
+
+
+//related with the product
+
+
+.product {
+  background-color: #f4f4f5;
+  padding: 1rem;
+  &__subdiv1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+  }
+  &__Images{
+    // border: 2px red solid;
+  }
+  &__image1{
+    width: 40%;
+    border-radius: 2%;
+    max-inline-size: 100%;
+    block-size: auto;
+  }
+  &__image2{
+    
+    border-radius: 2%;
+    max-inline-size: 50%;
+    block-size: auto;
+  }
+  &__description{
+    
+    &--Text1{
+      font-weight: 700;
+      font-size: 1.2rem;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    &--Text2{}
+  }
+  &__subdiv2{}
+  &__buttons{
+
+    &--Negative{}
+    &--Input{}
+    &--Input::placeholder{
+      text-align: center;
+    }
+    &--Positive{}
+  }
+
+  &__price{
+    font-weight: 700;
+  }  
+  &__subdiv3{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+
+    &--availability{
+      color: green;
+      font-weight: 700;
+      margin-right: 1rem;
+    }
+    &--Text{}
+
+  }
+
+}
+
+
+//advertisement
+
+.advertisement{
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f5;
+  &__header{
+    color: black;
+  }
+
+  &__text{}
+  
+  &__subdiv{
+    border:2px red solid;
+    width: 50%;
+  }
+  &__image{
+    max-width: 100%;
+    height: auto;
+    border-radius: 2%;
+    
+    max-inline-size: 100%;
+    
+    
+
+  }
+
+}

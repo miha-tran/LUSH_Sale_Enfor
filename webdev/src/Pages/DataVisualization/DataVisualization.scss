@@ -1,0 +1,53 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url("../../assets/Lush.avif");
+    background-repeat: no-repeat;
+    max-inline-size: 100%;
+    background-size: cover;
+    color: black;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    &__logo {
+      align-items: center;
+      color: goldenrod;
+      padding-left: 2rem;
+      font-family: "Playfair Display";
+  
+    }
+  
+    &__link {
+      text-decoration: none;
+    }
+  
+    &__visualpageLink {
+      list-style: none;
+      margin-right: 2rem;
+      color: goldenrod;
+    }
+  }
+  
+  .branch-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+    &__Text{
+       color: white;
+    }
+  }
