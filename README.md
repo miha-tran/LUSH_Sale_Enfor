@@ -59,7 +59,6 @@ Our task was to address the following pivotal question:
 
 <img width="350" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/35654b70-05fa-429f-9681-263809002159">
 
-
 <img width="350" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/419bff66-388d-4fb4-9006-6b38223eaa8d">
 
 <img width="350" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/ecd9b044-7962-4320-afc1-42652619afff">
@@ -77,7 +76,7 @@ Our task was to address the following pivotal question:
 <img width="500" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/d3e641ec-f7fc-423d-a39a-ca6fab438f94">
 
 ### Recommendation for a green ingredients
-<img width="500" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/f23b8441-fccd-451b-80e3-05a806e329e8">
+<img width="700" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/f23b8441-fccd-451b-80e3-05a806e329e8">
 
 ### Insight from customer review
 <img width="500" alt="image" src="https://github.com/miha-tran/LUSH_Sale_Enfor/assets/149928007/b7139291-71bf-40f5-b971-efb64c10e5a1">
