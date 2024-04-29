@@ -14,13 +14,13 @@ Welcome to our team's showcase for the 24-hour Hackathon, a collaborative ventur
 
 ### 🤩 Our Team
 
-- **Louis Guarino** (UX/UI Designer)
-- **Mehrnoosh Behzadi** (Data Science)
-- **Rachel Liao** (Data Science)
-- **Syed Ishmum** (Data Science)
-- **Francis O'Donnell Bourke** (Software Engineering)
-- **Zachary Ringwood** (Software Engineering)
-- **Jorge Sader** (TA Project Manager)
+- **Minh Hai Tran** (Data Science)
+- **Alison Vaz** (Data Science)
+- **Julie Luther** (Data Science)
+- **Kyle Schaffrick** (Data Science)
+- **Tiffany Chu** (Data Science)
+- **Daniel Sagvignon Araujo** (Web Dev)
+- **Devin Dellazizzo Toth** (Web Dev)
 
 ---
 
